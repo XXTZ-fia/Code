@@ -3,5 +3,6 @@
         "iostream": "cpp",
         "sstream": "cpp",
         "regex": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
