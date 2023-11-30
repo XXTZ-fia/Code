@@ -3,7 +3,8 @@
         "iostream": "cpp",
         "sstream": "cpp",
         "regex": "cpp",
-        "string.h": "c"
+        "string.h": "c",
+        "ratio": "cpp"
     },
     "C_Cpp.errorSquiggles": "disabled"
 }
